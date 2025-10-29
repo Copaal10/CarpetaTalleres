@@ -1,0 +1,28 @@
+TALLER PSeInt
+
+1. Secuencias Simples
+a)Saludo personalizado: Pide el nombre del usuario y escribe "¡Hola, [nombre]!".
+b)Suma de dos números: Pide dos números y muestra el resultado de sumarlos.
+c)Calculadora de área de un círculo: Pide el radio y calcula el área.
+
+2. Condiciones (si-entonces)
+a)Mayor de edad: Pide la edad del usuario y dice si es mayor o menor de 18 años.
+b)Número positivo/negativo/cero: Pide un número y clasificarlo.
+c)Aprobado o reprobado: Pide una nota (0-10) y muestra "Aprobado" si es >=6.
+d)Día de la semana: Pide un número del 1 al 7 y muestra el día correspondiente.
+
+3. Ciclos (mientras o repetir)
+a)Contador del 1 al 10: Imprime los números del 1 al 10 usando un ciclo.
+b)Suma hasta 'n': Pide un número n y suma todos los números desde 1 hasta n.
+c)Adivina el número: El usuario debe adivinar un número fijo (ej: 5). El programa dice "mayor" o "menor" hasta que acierte.
+
+4. Integradores
+a)Factorial de un número: Calcula el factorial de un número ingresado.
+b)Tabla de multiplicar: Pide un número y muestra su tabla de multiplicar del 1 al 10.
+c)Promedio de notas: Pide 3 notas y calcula el promedio. Luego, dice si está aprobado (>=60) o no.
+d)Contador de pares/impares: Pide 5 números y cuenta cuántos son pares e impares.
+e)Simulador de cajero básico:
+
+I.Saldo inicial: $1000.
+II.Pide al usuario si quiere "retirar" o "depositar".
+III.Actualiza el saldo y muéstrelo

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Conceptos_Basicos",
+			"path": "../../Conceptos_Basicos"
+		},
+		{
+			"name": "PF-2-3-1-main",
+			"path": "../../PF-2-3-1-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
